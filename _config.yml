@@ -11,11 +11,11 @@ github_username:  cuddco
 # Build settings
 markdown: kramdown
 
-pygments: true
-auto: true
+highlighter: pygments
 
 ftp_host: 'johncudd.com'
 ftp_dir: '/public_html/cudd.co'
 ftp_passive: false
 ftp_username: 'johncudd'
+
 

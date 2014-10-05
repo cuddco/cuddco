@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Starting a Blog to Learn Vim"
-date: 2014-10-04 23:15:00
+date: 2014-10-05 15:59:21 
+categories: software
+tags: jekyll vim glynn
 ---
 I heard once that writer's block doesn't really exist, you just have to sit 
 down and start writing. That's actually what I am doing right now. I'm actually
@@ -19,7 +21,9 @@ In order to be successful I needed to do all my blogging in the console, so I
 looked into a blogging tool called [Jekyll][jekyll website]. It was developed by one of the
 Github founders and basically converts a bunch of Markdown files into a
 website. It was fairly simple to setup and it allows me to do all my work in
-the console using [Vim][vim wiki] and [Git][git website]
+the console using [Vim][vim wiki] and [Git][git website]. To upload my changes
+with a simple command called glynn. All of this is explained on the [Jekyll
+website][jekyll website].
 
 It's a funny thing to hear people write so much about a simple text editor and 
 to have so much passion for it. Everything I've read about Vim has really made
