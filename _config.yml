@@ -1,0 +1,12 @@
+# Site settings
+title: Intolerable Detail 
+email: cuddco@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+        A blog about computer programming, open-source, and other random stuff.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cudd.co" # the base hostname & protocol for your site
+twitter_username: cuddco
+github_username:  cuddco
+
+# Build settings
+markdown: kramdown
