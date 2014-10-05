@@ -8,14 +8,28 @@ url: "http://cudd.co" # the base hostname & protocol for your site
 twitter_username: cuddco
 github_username:  cuddco
 
+
 # Build settings
 markdown: kramdown
-
 highlighter: pygments
 
+
+#FTP Settings
 ftp_host: 'johncudd.com'
 ftp_dir: '/public_html/cudd.co'
 ftp_passive: false
 ftp_username: 'johncudd'
 
 
+#Google Analytics Settings
+service_account_email: 515353140739-pao182ubin49qqvmicodc695mcsq0eik@developer.gserviceaccount.com
+key_file: cuddco-32d5b315726f.p12
+key_secret: notasecret    # service account private key's password
+profileID: ga:55553762        # profile ID 
+start: last month         # Beginning of report
+end: now                  # End of report
+metric: ga:pageviews      # Metric code
+segment:                  # optional
+filters:                  # optional
+sort: false                # Sort posts by this metric
+                                                                                       
